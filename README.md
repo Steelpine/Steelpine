@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Steelpine
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Roptimized
+- 👀 I’m interested in creating a better free society
+- 🌱 I’m currently learning christ
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me 3609907365
 
 <!---
 Steelpine/Steelpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
